@@ -14,7 +14,7 @@
 
 5. Edit blog
 
-![edit blog](https://github.com/Roshand
+![edit blog](https://github.com/Roshandahal/simpleblogwebsite/assets/91000837/200befaa-0760-45b6-87fd-8853c9187d0d)
 
 6. Upload blog
 ![update blog](https://github.com/Roshandahal/simpleblogwebsite/assets/91000837/27b615b1-b20c-420f-b5ad-3f04c36033e1)
