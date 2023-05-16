@@ -22,7 +22,13 @@
 
 7. Delete blog
 ![delete blog](https://github.com/Roshandahal/simpleblogwebsite/assets/91000837/2d726d48-de0e-4208-a8ce-5c5912c11a92)
-ahal/simpleblogwebsite/assets/91000837/d9f227e5-3333-4282-890e-651c05bacffd)
+
+-login credintials
+Username:admin123@gmail.com
+Password:password
+
+loginurl: admin/login
+
 
 
 
