@@ -1,4 +1,4 @@
-**Complete CRUD Blog web App**
+**Complete CRUD Blog web App with Seperated Admin pannel**
 
 1. Admin login
 
