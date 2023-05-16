@@ -1,11 +1,29 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+1. Admin login
+![admin pannel](https://github.com/Roshandahal/simpleblogwebsite/assets/91000837/ccd10bbe-708f-471f-8a4c-dcb026bfb017)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+2.Admin pannel
+![admin home](https://github.com/Roshandahal/simpleblogwebsite/assets/91000837/7271e057-35ce-4f3b-802c-e47dcdc80b45)
+
+3. Post blog
+![update blog](https://github.com/Roshandahal/simpleblogwebsite/assets/91000837/6d7e93bd-c8f4-4219-938e-2267ced9495d)
+
+
+4. Blog user interface
+![blog userinterface](https://github.com/Roshandahal/simpleblogwebsite/assets/91000837/9099a12c-f1b4-4e3b-9823-de1b759d15a9)
+
+
+5. Edit blog
+
+![edit blog](https://github.com/Roshand
+
+6. Upload blog
+![update blog](https://github.com/Roshandahal/simpleblogwebsite/assets/91000837/27b615b1-b20c-420f-b5ad-3f04c36033e1)
+
+7. Delete blog
+![delete blog](https://github.com/Roshandahal/simpleblogwebsite/assets/91000837/2d726d48-de0e-4208-a8ce-5c5912c11a92)
+ahal/simpleblogwebsite/assets/91000837/d9f227e5-3333-4282-890e-651c05bacffd)
+
+
 
 ## About Laravel
 
