@@ -1,4 +1,5 @@
 1. Admin login
+
 ![admin pannel](https://github.com/Roshandahal/simpleblogwebsite/assets/91000837/ccd10bbe-708f-471f-8a4c-dcb026bfb017)
 
 2.Admin pannel
@@ -16,7 +17,7 @@
 
 ![edit blog](https://github.com/Roshandahal/simpleblogwebsite/assets/91000837/200befaa-0760-45b6-87fd-8853c9187d0d)
 
-6. Upload blog
+6. Update blog
 ![update blog](https://github.com/Roshandahal/simpleblogwebsite/assets/91000837/27b615b1-b20c-420f-b5ad-3f04c36033e1)
 
 7. Delete blog
